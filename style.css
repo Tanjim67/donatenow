@@ -28,7 +28,6 @@ h1{
     background-image: url(images/veg.jpg);
     background-size:cover;
     background-position: center;
-   
 }
 
 .welcome{
@@ -45,7 +44,6 @@ h1{
 .click{
     color: white;
     text-decoration: none;
-    /* background-color: rgb(106, 106, 219); */
     background-image: linear-gradient(rgb(3, 121, 9),rgb(95, 200, 122));
     border-radius: 25px;
     padding: 20px 40px;
@@ -60,7 +58,6 @@ h1{
 
 .about{
     margin-left: 4%;
-    /* padding: 80px; */
     padding: 2%;
     width: 40%;
     text-align: justify;
@@ -121,7 +118,6 @@ h1{
     border-color: rgb(66, 66, 66);
     border-radius: 20px;
     box-shadow: 5px 5px 20px rgba(82, 82, 82, 0.479);
-    
 
 }
 
@@ -190,6 +186,5 @@ footer h2{
     -moz-background-clip: text;
     -moz-text-fill-color: transparent;
     -webkit-text-fill-color: transparent;
-  
 }
 
