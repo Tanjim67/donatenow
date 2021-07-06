@@ -1,0 +1,195 @@
+body{
+    font-family: 'Poppins', sans-serif;;
+    background-color: rgb(47, 47, 47);
+    color: rgb(226, 226, 226);
+    margin: 0%;
+}
+
+h1{
+    font-size: 50px;
+}
+
+.flexible{
+    display: flex;
+}
+
+
+.green{
+    color: rgb(111, 223, 129);
+    font-size: 70px;
+  }
+
+.greensmall{
+    color: rgb(111, 223, 129);
+    font-size: 40px;
+  }
+
+.topsection{
+    background-image: url(images/veg.jpg);
+    background-size:cover;
+    background-position: center;
+   
+}
+
+.welcome{
+    margin-left: 6%;
+    margin-top: 5%;
+    /* padding: 80px; */
+    padding: 2%;
+    width: 40%;
+    height: 800px;
+    text-align: justify;
+    float: left;
+}
+
+.click{
+    color: white;
+    text-decoration: none;
+    /* background-color: rgb(106, 106, 219); */
+    background-image: linear-gradient(rgb(3, 121, 9),rgb(95, 200, 122));
+    border-radius: 25px;
+    padding: 20px 40px;
+}
+
+
+.bg{
+    background-image: url(images/back.jpg);
+    background-size:auto;
+}
+
+
+.about{
+    margin-left: 4%;
+    /* padding: 80px; */
+    padding: 2%;
+    width: 40%;
+    text-align: justify;
+    float: right;
+}
+
+.about img{
+    padding-right: 100px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    width: 90%
+
+}
+
+
+.recipe{
+    margin-left: 6%;
+    text-align: center;
+    padding: 2%;
+}
+
+.recipelist{
+    margin-left: 10%;
+    padding: 1%;
+    width: 60%;
+    text-align: left;
+}
+
+.recipelist img{
+    height: 250px;
+    width: 400px;
+    border-radius: 20px;
+}
+
+.outborder{
+    background-color: rgb(66, 66, 66);
+    padding: 3%;
+    margin-right: 50px;
+    margin-bottom: 80px;
+    border: 3px solid;
+    border-color: rgb(66, 66, 66);
+    border-radius: 20px;
+    box-shadow: 5px 5px 20px rgba(82, 82, 82, 0.479);
+
+}
+
+.outborder p{
+    text-align: justify;
+}
+
+.outborder2{
+    background-color: rgb(66, 66, 66);
+    padding: 2%;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 80px;
+    border: 3px solid;
+    border-color: rgb(66, 66, 66);
+    border-radius: 20px;
+    box-shadow: 5px 5px 20px rgba(82, 82, 82, 0.479);
+    
+
+}
+
+
+.text{
+    width: 50%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing:border-box;
+    text-align: center;
+    font-size: 20px;
+}
+
+.sub{
+    width: 50%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    color: white;
+    display: inline-block;
+    border: 1px solid  rgb(111, 223, 129);
+    background-image: linear-gradient(rgb(3, 121, 9),rgb(95, 200, 122));
+    border-radius: 4px;
+    box-sizing:border-box;
+    text-align: center;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.footer{
+    background-image: url(images/vegfoot.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+footer p{
+    text-align: center;
+    background-image: linear-gradient(rgb(63, 62, 62),rgba(37, 129, 1, 0.411));
+    
+}
+
+footer h2{
+    text-align: center;
+}
+
+#eat{
+    text-align: center;
+    font-size: 45px;
+    background: linear-gradient(180deg, rgb(143, 143, 143),rgb(255, 255, 255));
+    background-clip: text;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    -moz-text-fill-color: transparent;
+    -webkit-text-fill-color: transparent;
+
+}
+
+#fresh{
+    text-align: center;
+    font-size: 45px;
+    background: linear-gradient(180deg, rgb(68, 255, 62),rgb(73, 73, 73));
+    background-clip: text;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    -moz-text-fill-color: transparent;
+    -webkit-text-fill-color: transparent;
+  
+}
+
